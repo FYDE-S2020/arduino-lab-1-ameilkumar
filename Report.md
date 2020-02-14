@@ -1,8 +1,8 @@
-Name:
+Name: Ameil Kumar
 
-EID:
+EID: Ask2373
 
-Team Number:
+Team Number: 
 
 ## Questions
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/partA.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
